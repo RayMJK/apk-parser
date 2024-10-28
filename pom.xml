@@ -59,14 +59,14 @@
         </dependency>
         <dependency>
             <groupId>org.bouncycastle</groupId>
-            <artifactId>bcprov-jdk15on</artifactId>
-            <version>1.58</version>
+            <artifactId>bcprov-jdk18on</artifactId>
+            <version>1.78.1</version>
             <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>org.bouncycastle</groupId>
-            <artifactId>bcpkix-jdk15on</artifactId>
-            <version>1.58</version>
+            <artifactId>bcpkix-jdk18on</artifactId>
+            <version>1.78.1</version>
             <optional>true</optional>
         </dependency>
         <dependency>
